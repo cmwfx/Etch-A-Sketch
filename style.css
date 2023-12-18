@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container {
+	width: 1000px;
+	height: 700px;
+	border: solid;
+	border-color: black;
+}
+.innerDivClass:hover {
+	background-color: aqua;
+}
